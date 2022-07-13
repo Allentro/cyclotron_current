@@ -9,3 +9,5 @@ A second function offers the ability to convert a logged data-set into a discret
 create_step_fn()
 ```
 The plot below shows the logged data in blue with the Heaviside functions overlaid in red. 
+
+![data with step function](cyclotron_current/step_output.png "Heaviside step-function")
